@@ -7,15 +7,7 @@ The three-tier architecture is the most popular implementation of a multi-tier a
 It is a viable choice for software projects to be started quickly.
 aws_3tier_architecture_terraform
 
-### Video Tutorial:
-
-Part1 - https://youtu.be/B3BtmyBetQo
-
-Part2 - https://youtu.be/kpoUeBkHoSc
-
-Part3 - https://youtu.be/Nz6pKARM5W0
-
-### Resources need to be created / installed :
+### Resources need to be created/installed:
 
 * Custom VPC
 
